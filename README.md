@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background-image: url('https://example.com/your-background-image.jpg'); background-size: cover; padding: 100px; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; min-height: 100vh;"
   
-  <!-- Your profile header content -->
+
   <h1>Hi there, I'm [Vankayalapati Manogna] 👋</h1>
   <p>🔭 I’m currently learning [Data Science]</p>
   <p>📫 How to reach me: [manognavankayalapati@gmail.com]</p>
