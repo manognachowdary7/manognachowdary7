@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" alt="React">
     <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=c++" alt="C++">
+    <img src="https://img.shields.io/badge/R-000000?style=flat&logo=R&logoColor=white" alt="R Programming">
     <!-- Add more badges for your languages, frameworks, and libraries -->
   </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact&theme=dark" alt="Top Languages">
