@@ -1,5 +1,5 @@
 <!-- Header with Background Image -->
-<div style="background-image: url('https://example.com/your-background-image.jpg'); background-size: cover; padding: 100px; text-align: center;">
+<div style="background-image: url('https://unsplash.com/photos/azkczZ4rOgk.jpg'); background-size: cover; padding: 100px; text-align: center;">
   <h1 style="color: white;">Hi there, I'm Vankayalapati Manogna 👋</h1>
   <p style="color: white;">🔭 I’m currently learning Data Science</p>
   <p style="color: white;">📫 How to reach me: [manognavankayalapati@gmail.com]</p>
