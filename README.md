@@ -7,7 +7,7 @@
 
   <!-- Centered Container for GitHub Stats -->
   <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manognachowdary7&currStreakNum=FFA500&theme=gruvbox">
+    <img src="(https://github-readme-streak-stats.herokuapp.com?user=manognachowdary7&theme=dark&hide_border=true&exclude_days=Sun)">
   </div>
 
   <!-- Languages and Tools Section -->
