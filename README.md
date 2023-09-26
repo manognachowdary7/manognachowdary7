@@ -2,12 +2,12 @@
   
   <!-- Your profile header content -->
   <h1>Hi there, I'm [Vankayalapati Manogna] 👋</h1>
-  <p>🔭 I’m currently learning [Data Science]</p>
+  <p>🔭 I’m currently learning [Data Science, React]</p>
   <p>📫 How to reach me: [manognavankayalapati@gmail.com]</p>
 
   <!-- Centered Container for GitHub Stats -->
   <div style="text-align: center;">
-    <img src="(https://github-readme-streak-stats.herokuapp.com?user=manognachowdary7&theme=dark&hide_border=true&exclude_days=Sun)">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=manognachowdary7&theme=vue-dark&hide_border=true" alt="GitHub stats">
   </div>
 
   <!-- Languages and Tools Section -->
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/R-000000?style=flat&logo=R&logoColor=white" alt="R Programming">
     <!-- Add more badges for your languages, frameworks, and libraries -->
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 
   <!-- Your other profile content -->
   
