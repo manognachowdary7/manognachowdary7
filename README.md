@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background-image: url('https://example.com/your-background-image.jpg'); background-size: cover; padding: 100px; text-align: center;">
+<div style="display: flex; justify-content: center; justiy-items: center; background-size: cover; padding: 100px; text-align: center;">
   
   <!-- Your profile header content -->
   <h1>Hi there, I'm [Vankayalapati Manogna] 👋</h1>
@@ -6,9 +6,6 @@
   <p>📫 How to reach me: [manognavankayalapati@gmail.com]</p>
 
   <!-- Centered Container for GitHub Stats -->
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=manognachowdary7&show_icons=true&theme=dark&hide_border=true alt="GitHub stats">
-  </div>
 
   <!-- Languages and Tools Section -->
   <h2>Languages and Tools</h2>
@@ -23,9 +20,10 @@
     <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=c++" alt="C++">
     <img src="https://img.shields.io/badge/R-000000?style=flat&logo=R&logoColor=white" alt="R Programming">
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL">
     <!-- Add more badges for your languages, frameworks, and libraries -->
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages">
 
   <!-- Your other profile content -->
   
