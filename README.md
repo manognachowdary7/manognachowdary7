@@ -7,7 +7,7 @@
 
   <!-- Centered Container for GitHub Stats -->
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=manognachowdary7&show_icons=true&theme=vue-dark&hide_border=true alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=manognachowdary7&show_icons=true&theme=dark&hide_border=true alt="GitHub stats">
   </div>
 
   <!-- Languages and Tools Section -->
