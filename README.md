@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; justiy-items: center; background-size: cover; padding: 100px; text-align: center;">
+<div style="display: flex; justify-content: center; justiy-items: center; text-align: center;">
   
   <!-- Your profile header content -->
   <h1>Hi there, I'm [Vankayalapati Manogna] 👋</h1>
