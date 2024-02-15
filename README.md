@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: center; justiy-items: center; text-align: center;">
   
   <!-- Your profile header content -->
-  <h1>Hi there, I'm [Vankayalapati Manogna] 👋</h1>
-  <p>🔭 I’m currently learning [Data Science]</p>
-  <p>📫 How to reach me: [manognavankayalapati@gmail.com]</p>
+  <h1>Hi there, I'm Vankayalapati Manogna 👋</h1>
+  <p>🔭 I’m currently working on Data Science and Machine Learning</p>
+  <p>📫 How to reach me: manognavankayalapati@gmail.com</p>
 
   <!-- Centered Container for GitHub Stats -->
 
