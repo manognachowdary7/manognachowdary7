@@ -37,7 +37,7 @@
   </p>
 
   <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=manognachowdary7&theme=dark&margin-w=15" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=manognachowdary7&theme=dark&margin-w=20" alt="GitHub Profile Trophy">
 
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
