@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" alt="React">
     <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=c++" alt="C++">
     <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL">
