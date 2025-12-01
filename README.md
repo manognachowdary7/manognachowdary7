@@ -48,7 +48,7 @@
   <div>
     <div>
 <!--   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=manognachowdary" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manognachowdary7&layout=compact" /> -->
 </div>
   </div>
 
