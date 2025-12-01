@@ -37,7 +37,7 @@
 
   <!-- GitHub Profile Trophy -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=manognachowdary7&theme=dark&margin-w=20" alt="GitHub Profile Trophy">
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=manognachowdary7&theme=dark&margin-w=20" alt="GitHub Profile Trophy"> -->
 
   </div>
   
